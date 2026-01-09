@@ -18,7 +18,7 @@ func BubbleSort(arr []int) []int {
 ```
 
 ## 快速排序 （确定基准）
-![img.png](img.png)
+![img.png](快速排序.png)
 ```
 func QuicSort(arr []int) []int {
 	if len(arr) <= 1 {
