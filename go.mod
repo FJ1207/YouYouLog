@@ -1,3 +1,3 @@
-module YouYouLog
+module note
 
 go 1.22.0
